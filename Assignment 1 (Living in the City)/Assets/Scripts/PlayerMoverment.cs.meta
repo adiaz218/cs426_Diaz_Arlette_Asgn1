@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c7c0656adc6e3694880220fb1750796d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannon: {instanceID: 0}
+  - soccer_ball: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
